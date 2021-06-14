@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7V9k3NxpjgtNm6qYbAlF1ucMQerZqm8TR/Gso1gsYNI6SSmeVlftu1bqUZA5Fo2c679l8PGkEykNmGzuyuuS1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kristijan\\source\\repos\\Globomantics\\Globomantics\\Globomantics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kristijan\\.nuget\\packages\\buildbundlerminifier\\3.2.449\\buildbundlerminifier.3.2.449.nupkg.sha512"
+  ],
+  "logs": []
+}
